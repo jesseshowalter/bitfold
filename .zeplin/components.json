@@ -1,0 +1,32 @@
+{
+  "plugins": [],
+  "projects": [
+    "616ddeed14cf3c109c00ddaf"
+  ],
+  "components": [
+    {
+      "path": "README.md",
+      "zeplinIds": [
+        "616de21f1d6931117a2a2023"
+      ]
+    },
+    {
+      "path": ".zeplin/components.json",
+      "zeplinIds": [
+        "616de2209369401101274cef"
+      ]
+    },
+    {
+      "path": "components.json",
+      "zeplinIds": [
+        "616de21ff58dec15b3538084"
+      ]
+    }
+  ],
+  "github": {
+    "repository": "jesseshowalter/bitfold"
+  },
+  "styleguides": [
+    "616de1e000aa791295c75be2"
+  ]
+}
